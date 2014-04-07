@@ -1,0 +1,1 @@
+/usr/bin/c++    -fpermissive -g    CMakeFiles/Task_Test.dir/test/Task_Test.cc.o CMakeFiles/Task_Test.dir/lib/BOOOS.cc.o CMakeFiles/Task_Test.dir/lib/Queue.cc.o CMakeFiles/Task_Test.dir/lib/Scheduler.cc.o CMakeFiles/Task_Test.dir/lib/Task.cc.o  -o Task_Test -rdynamic 

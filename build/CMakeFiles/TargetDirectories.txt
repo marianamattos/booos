@@ -1,0 +1,4 @@
+/home/schuli/projects/booos/build/CMakeFiles/Boos.dir
+/home/schuli/projects/booos/build/CMakeFiles/Queue_Test.dir
+/home/schuli/projects/booos/build/CMakeFiles/Scheduler_Test.dir
+/home/schuli/projects/booos/build/CMakeFiles/Task_Test.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -fpermissive -g    CMakeFiles/Boos.dir/booos.cc.o CMakeFiles/Boos.dir/lib/BOOOS.cc.o CMakeFiles/Boos.dir/lib/Queue.cc.o CMakeFiles/Boos.dir/lib/Scheduler.cc.o CMakeFiles/Boos.dir/lib/Task.cc.o  -o Boos -rdynamic 
