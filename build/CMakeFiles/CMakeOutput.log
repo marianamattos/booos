@@ -28,30 +28,30 @@ The CXX compiler identification is GNU, found in "/home/schuli/projects/booos/bu
 Determining if the C compiler works passed with the following output:
 Change Dir: /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/usr/bin/make "cmTryCompileExec3883066352/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec3883066352.dir/build.make CMakeFiles/cmTryCompileExec3883066352.dir/build
+Run Build Command:/usr/bin/make "cmTryCompileExec1716767907/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1716767907.dir/build.make CMakeFiles/cmTryCompileExec1716767907.dir/build
 make[1]: Entering directory '/home/schuli/projects/booos/build/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec3883066352.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3883066352.dir/testCCompiler.c.o   -c /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTryCompileExec3883066352
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3883066352.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTryCompileExec3883066352.dir/testCCompiler.c.o  -o cmTryCompileExec3883066352 -rdynamic 
+Building C object CMakeFiles/cmTryCompileExec1716767907.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec1716767907.dir/testCCompiler.c.o   -c /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTryCompileExec1716767907
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1716767907.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec1716767907.dir/testCCompiler.c.o  -o cmTryCompileExec1716767907 -rdynamic 
 make[1]: Leaving directory '/home/schuli/projects/booos/build/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/usr/bin/make "cmTryCompileExec1729596704/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec1729596704.dir/build.make CMakeFiles/cmTryCompileExec1729596704.dir/build
+Run Build Command:/usr/bin/make "cmTryCompileExec320537205/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec320537205.dir/build.make CMakeFiles/cmTryCompileExec320537205.dir/build
 make[1]: Entering directory '/home/schuli/projects/booos/build/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec1729596704.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTryCompileExec1729596704.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-2.8/Modules/CMakeCCompilerABI.c
-Linking C executable cmTryCompileExec1729596704
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1729596704.dir/link.txt --verbose=1
-/usr/bin/cc     -v CMakeFiles/cmTryCompileExec1729596704.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec1729596704 -rdynamic  
+Building C object CMakeFiles/cmTryCompileExec320537205.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec320537205.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-2.8/Modules/CMakeCCompilerABI.c
+Linking C executable cmTryCompileExec320537205
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec320537205.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTryCompileExec320537205.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec320537205 -rdynamic  
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/lto-wrapper
@@ -61,8 +61,8 @@ Thread model: posix
 gcc version 4.8.2 (GCC) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec1729596704' '-rdynamic' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/collect2 --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec1729596704 /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crt1.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crti.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtbegin.o -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2 -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../.. CMakeFiles/cmTryCompileExec1729596704.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtend.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec320537205' '-rdynamic' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/collect2 --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec320537205 /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crt1.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crti.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtbegin.o -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2 -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../.. CMakeFiles/cmTryCompileExec320537205.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtend.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crtn.o
 make[1]: Leaving directory '/home/schuli/projects/booos/build/CMakeFiles/CMakeTmp'
 
 
@@ -70,15 +70,15 @@ Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:/usr/bin/make "cmTryCompileExec1729596704/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTryCompileExec1729596704.dir/build.make CMakeFiles/cmTryCompileExec1729596704.dir/build]
+  ignore line: [Run Build Command:/usr/bin/make "cmTryCompileExec320537205/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTryCompileExec320537205.dir/build.make CMakeFiles/cmTryCompileExec320537205.dir/build]
   ignore line: [make[1]: Entering directory '/home/schuli/projects/booos/build/CMakeFiles/CMakeTmp']
   ignore line: [/usr/bin/cmake -E cmake_progress_report /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp/CMakeFiles 1]
-  ignore line: [Building C object CMakeFiles/cmTryCompileExec1729596704.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTryCompileExec1729596704.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-2.8/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTryCompileExec1729596704]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1729596704.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTryCompileExec1729596704.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec1729596704 -rdynamic  ]
+  ignore line: [Building C object CMakeFiles/cmTryCompileExec320537205.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTryCompileExec320537205.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-2.8/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTryCompileExec320537205]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec320537205.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTryCompileExec320537205.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec320537205 -rdynamic  ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/lto-wrapper]
@@ -88,8 +88,8 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 4.8.2 (GCC) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec1729596704' '-rdynamic' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/collect2 --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec1729596704 /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crt1.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crti.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtbegin.o -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2 -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../.. CMakeFiles/cmTryCompileExec1729596704.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtend.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec320537205' '-rdynamic' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/collect2 --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec320537205 /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crt1.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crti.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtbegin.o -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2 -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../.. CMakeFiles/cmTryCompileExec320537205.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtend.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crtn.o]
     arg [/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/collect2] ==> ignore
     arg [--build-id] ==> ignore
     arg [--eh-frame-hdr] ==> ignore
@@ -100,7 +100,7 @@ Parsed C implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTryCompileExec1729596704] ==> ignore
+    arg [cmTryCompileExec320537205] ==> ignore
     arg [/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtbegin.o] ==> ignore
@@ -109,7 +109,7 @@ Parsed C implicit link information from above output:
     arg [-L/lib/../lib] ==> dir [/lib/../lib]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../..] ==> dir [/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../..]
-    arg [CMakeFiles/cmTryCompileExec1729596704.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTryCompileExec320537205.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -138,30 +138,30 @@ Parsed C implicit link information from above output:
 Determining if the CXX compiler works passed with the following output:
 Change Dir: /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/usr/bin/make "cmTryCompileExec1108758911/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec1108758911.dir/build.make CMakeFiles/cmTryCompileExec1108758911.dir/build
+Run Build Command:/usr/bin/make "cmTryCompileExec1060125334/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1060125334.dir/build.make CMakeFiles/cmTryCompileExec1060125334.dir/build
 make[1]: Entering directory '/home/schuli/projects/booos/build/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building CXX object CMakeFiles/cmTryCompileExec1108758911.dir/testCXXCompiler.cxx.o
-/usr/bin/c++     -o CMakeFiles/cmTryCompileExec1108758911.dir/testCXXCompiler.cxx.o -c /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTryCompileExec1108758911
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1108758911.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTryCompileExec1108758911.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec1108758911 -rdynamic 
+Building CXX object CMakeFiles/cmTryCompileExec1060125334.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec1060125334.dir/testCXXCompiler.cxx.o -c /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec1060125334
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1060125334.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTryCompileExec1060125334.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec1060125334 -rdynamic 
 make[1]: Leaving directory '/home/schuli/projects/booos/build/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/usr/bin/make "cmTryCompileExec148190522/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec148190522.dir/build.make CMakeFiles/cmTryCompileExec148190522.dir/build
+Run Build Command:/usr/bin/make "cmTryCompileExec2424910433/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2424910433.dir/build.make CMakeFiles/cmTryCompileExec2424910433.dir/build
 make[1]: Entering directory '/home/schuli/projects/booos/build/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building CXX object CMakeFiles/cmTryCompileExec148190522.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++     -o CMakeFiles/cmTryCompileExec148190522.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-2.8/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTryCompileExec148190522
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec148190522.dir/link.txt --verbose=1
-/usr/bin/c++      -v CMakeFiles/cmTryCompileExec148190522.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec148190522 -rdynamic  
+Building CXX object CMakeFiles/cmTryCompileExec2424910433.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec2424910433.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-2.8/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTryCompileExec2424910433
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2424910433.dir/link.txt --verbose=1
+/usr/bin/c++      -v CMakeFiles/cmTryCompileExec2424910433.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec2424910433 -rdynamic  
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/lto-wrapper
@@ -171,8 +171,8 @@ Thread model: posix
 gcc version 4.8.2 (GCC) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec148190522' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/collect2 --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec148190522 /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crt1.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crti.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtbegin.o -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2 -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../.. CMakeFiles/cmTryCompileExec148190522.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtend.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec2424910433' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/collect2 --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec2424910433 /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crt1.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crti.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtbegin.o -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2 -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../.. CMakeFiles/cmTryCompileExec2424910433.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtend.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crtn.o
 make[1]: Leaving directory '/home/schuli/projects/booos/build/CMakeFiles/CMakeTmp'
 
 
@@ -180,15 +180,15 @@ Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:/usr/bin/make "cmTryCompileExec148190522/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTryCompileExec148190522.dir/build.make CMakeFiles/cmTryCompileExec148190522.dir/build]
+  ignore line: [Run Build Command:/usr/bin/make "cmTryCompileExec2424910433/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTryCompileExec2424910433.dir/build.make CMakeFiles/cmTryCompileExec2424910433.dir/build]
   ignore line: [make[1]: Entering directory '/home/schuli/projects/booos/build/CMakeFiles/CMakeTmp']
   ignore line: [/usr/bin/cmake -E cmake_progress_report /home/schuli/projects/booos/build/CMakeFiles/CMakeTmp/CMakeFiles 1]
-  ignore line: [Building CXX object CMakeFiles/cmTryCompileExec148190522.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTryCompileExec148190522.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-2.8/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTryCompileExec148190522]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec148190522.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTryCompileExec148190522.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec148190522 -rdynamic  ]
+  ignore line: [Building CXX object CMakeFiles/cmTryCompileExec2424910433.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTryCompileExec2424910433.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-2.8/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTryCompileExec2424910433]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2424910433.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTryCompileExec2424910433.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec2424910433 -rdynamic  ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/lto-wrapper]
@@ -198,8 +198,8 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 4.8.2 (GCC) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec148190522' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/collect2 --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec148190522 /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crt1.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crti.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtbegin.o -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2 -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../.. CMakeFiles/cmTryCompileExec148190522.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtend.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec2424910433' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/collect2 --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec2424910433 /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crt1.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crti.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtbegin.o -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2 -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../.. CMakeFiles/cmTryCompileExec2424910433.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtend.o /usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crtn.o]
     arg [/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/collect2] ==> ignore
     arg [--build-id] ==> ignore
     arg [--eh-frame-hdr] ==> ignore
@@ -210,7 +210,7 @@ Parsed CXX implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTryCompileExec148190522] ==> ignore
+    arg [cmTryCompileExec2424910433] ==> ignore
     arg [/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../../../lib/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/crtbegin.o] ==> ignore
@@ -219,7 +219,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/lib/../lib] ==> dir [/lib/../lib]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../..] ==> dir [/usr/lib/gcc/x86_64-unknown-linux-gnu/4.8.2/../../..]
-    arg [CMakeFiles/cmTryCompileExec148190522.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTryCompileExec2424910433.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]

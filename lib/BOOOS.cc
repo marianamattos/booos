@@ -19,7 +19,7 @@ void init() {
   
 	Task::init();
 	
-	cout <<                                        "Task inicializada" << endl;
+	cout <<                                        "\nTask inicializada" << endl;
 	
 	switch(SCHEDULER_TYPE) {
 	

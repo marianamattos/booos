@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+../lib/BOOOS.h
+Scheduler.h
+-
+
 ../lib/Queue.h
 
 ../lib/Scheduler.h
@@ -20,39 +24,13 @@ Queue.h
 ucontext.h
 -
 
-/home/schuli/projects/booos/lib/Queue.h
-
-/home/schuli/projects/booos/lib/Scheduler.cc
-Scheduler.h
-/home/schuli/projects/booos/lib/Scheduler.h
-ucontext.h
+/home/schuli/projects/booos/lib/BOOOS.cc
+BOOOS.h
 -
-iostream
--
-
-/home/schuli/projects/booos/lib/Scheduler.h
 Task.h
--
-Queue.h
--
-
-/home/schuli/projects/booos/lib/Task.cc
-Task.h
-/home/schuli/projects/booos/lib/Task.h
-stdio.h
--
-ucontext.h
--
-stdlib.h
 -
 Scheduler.h
 -
 iostream
--
-
-/home/schuli/projects/booos/lib/Task.h
-Queue.h
-/home/schuli/projects/booos/lib/Queue.h
-ucontext.h
 -
 
